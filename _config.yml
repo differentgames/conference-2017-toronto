@@ -1,9 +1,9 @@
 # Site settings
-title: Different Games Conference
+title: Different Games Toronto
 description: > # this means to ignore newlines until "url:"
   Different Games Conference is an annual student and volunteer-lead conference
   on diversity and inclusivity in games.
-url: "http://changeme.differentgames.org"
+url: "http://toronto.differentgames.org"
 twitter_username: differentgames
 tumblr_username: differentgamescollective
 
