@@ -11,9 +11,10 @@ images:
 team_website: 
 twitter: "@D_M_Gregory"
 twitter: "@BrentTheMitch"
-bio: Douglas Gregory is a gay & asexual game designer, currently developing games at Ubisoft Toronto. Douglas is an avid GameDev.StackExchange contributor and enthusiastic fan of game jams -- like Toronto's annual TOJam, where his games including Glimpse and domino-battler Last One Standing took shape.
+bio: |
+  Douglas Gregory is a gay & asexual game designer, currently developing games at Ubisoft Toronto. Douglas is an avid GameDev.StackExchange contributor and enthusiastic fan of game jams -- like Toronto's annual TOJam, where his games including Glimpse and domino-battler Last One Standing took shape.
 
-Brent Mitchell is a level designer and scripter at EA Motive in Montreal.
+  Brent Mitchell is a level designer and scripter at EA Motive in Montreal.
 team_images:
   - /images/games/DouglasGregory.jpg
   - /images/games/BrentGavinMitchell.jpg
