@@ -2,7 +2,7 @@
 layout: game
 title: like camping
 presenters: smolghost
-website: likecampinggame.neocities.org
+website: https://likecampinggame.neocities.org/
 images:
   - /images/games/likecamping1.png
   - /images/games/likecamping4.png
