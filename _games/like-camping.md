@@ -4,9 +4,9 @@ title: like camping
 presenters: smolghost
 website: https://likecampinggame.neocities.org/
 images:
-  - /images/games/likecamping1.png
-  - /images/games/likecamping4.png
-  - /images/games/tent2.png
+  - /images/games/likecamping1.jpg
+  - /images/games/likecamping4.jpg
+  - /images/games/tent2.jpg
 team_website: https://smolghostgames.neocities.org/
 twitter: "@smolghostfriend"
 bio: smolghost has a history in narrative based games and mixed media. their work has moved on to focus on combining the analog and digital. working with games, textiles, electronics, and constructed installations they look solely to create all encompassing experiences for participants and observers alike to get lost in. they just want to see what they can make you feel~
