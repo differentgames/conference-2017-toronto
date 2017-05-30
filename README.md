@@ -32,7 +32,7 @@ files as necessary, and you'll be able to see your changes at http://localhost:4
 ## Deploying
 It will happen automagically when you make commits to the master branch!
 
-[![Circle CI](https://circleci.com/gh/differentgames/conference-2016-site/tree/master.svg?style=svg)](https://circleci.com/gh/differentgames/conference-2016-site/tree/master)
+[![Circle CI](https://circleci.com/gh/differentgames/conference-2017-toronto/tree/master.svg?style=svg)](https://circleci.com/gh/differentgames/conference-2017-toronto/tree/master)
 
 If you need to deploy manually, you can. (But try not to!)
 Copy the `.ftp_config.sample` file into a file named `.ftp_config`, then edit the
