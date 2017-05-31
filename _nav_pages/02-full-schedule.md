@@ -10,7 +10,7 @@ permalink: /schedule/
     <hgroup>
       <h2 id="{{ session.anchor }}" class="session-title">{{ session.title }}</h2>
       <h3 class="session-time">{{ session.time }}</h3>
-      <h3 class="session-room">{{ session.room }}</h3>
+      <!-- <h3 class="session-room">{{ session.room }}</h3> -->
       {% if session.track == "Affective Play" %}
         <h3 class='affective-play'>{{session.track}}</h3>
       {% endif %}
