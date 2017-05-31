@@ -7,10 +7,10 @@ permalink: /schedule-at-a-glance/
 <div class="row">
   <div class="col-xs-12 pw-section" id="conference-schedule">
 
-    <section class="schedule-controls">
+    <!-- <section class="schedule-controls">
       <label class="show-talks-label">Show Session Details</label>
       <input type="checkbox" name="show-talks" id="show-talks" checked>
-    </section>
+    </section> -->
 
     <section class="schedule-content schedule-at-a-glance">
       {% include schedule-as-a-table.html %}
